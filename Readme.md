@@ -1,4 +1,7 @@
-`npx parcel index.html`
+### Quickstart
+
+`npm run start:db`
+`npm run start:parcel`
 
 ### Helpful commands
 
